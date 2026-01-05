@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PuntoVentaCasaCeja.AbonoApartado" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAQAAAgAAAAAIAEAAAKAAAAAAAACAIQAAAgA=</HashCode>
+      <FileName>AbonoApartado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.AbonoCredito" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAQAAAgAAAAAAAEAAAKAAQAAAAACAIQAAAgA=</HashCode>
+      <FileName>AbonoCredito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.Abonos" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEBMAQSCIEEDAgAgGAAAACEAAAATAFg2BSJMAAAiA=</HashCode>
+      <FileName>Abonos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.AltaCliente" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>OAIAAAAUACIBwBCAAAGAAABChAIAICIggSAQAIABEig=</HashCode>
+      <FileName>AltaCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.Apartado" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAAAABAAAAAAAQAAEAgAiAAAQIACECAIAAAAwA=</HashCode>
+      <FileName>Apartado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.ApCrSel" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAwAABAACAAABCAAAAAAAAgCAQAA4AACA=</HashCode>
+      <FileName>ApCrSel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.BuscarExistencia" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAqiABAQICIQgBQQhRPAFAAigBBJAAIAhEBAAyIKACA=</HashCode>
+      <FileName>BuscarExistencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.CambiarCantidad" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAEAAUACADgAAAAAGAAAACAAAAACAAASAIAAABACA=</HashCode>
+      <FileName>CambiarCantidad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.Categoria" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAACAAAAAAAACAIAAAAgA=</HashCode>
+      <FileName>Categoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.Cliente" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAQAAACAAAAAAAAgADAIAACAAACAMAAAAgI=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.ConfigWindow" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAKABAASACABgBABABGAAAAKAAAhQDQAgWCAAAAAACA=</HashCode>
+      <FileName>ConfigWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.CrearProducto" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>OA4QAKBS0CFBpBcYJIGENAASkYoMAAIgwGQAAIALACE=</HashCode>
+      <FileName>CrearProducto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.CreaTicket" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQEAAAAAIAAABCABARAQAEAABwEAAAAAAEAAAAAAQ=</HashCode>
+      <FileName>CreaTicket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.Credito" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAAAABAAAAABAQAAAAgACAAAQIAAECAIAAAAwA=</HashCode>
+      <FileName>Credito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.CurrentData" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIACBIgAAAQAgACAAAAAAAAgAEAAAAAAAAEAAAgABA=</HashCode>
+      <FileName>CurrentData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.Dropcustom" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAEkAACAAAAAAAACAAAACgAAAIAAKACAgAAAAAAA=</HashCode>
+      <FileName>Dropcustom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.Existencia" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Existencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.GastosIngresos" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABADACQACgAhBAAAACAAYACEAAAAAAAACAAAEAAACA=</HashCode>
+      <FileName>GastosIngresos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.IngresarMonto" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAEFAAQACAAgAAAAAmAAAACEAAAACAAASAIAAAAACA=</HashCode>
+      <FileName>IngresarMonto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.IngresarTexto" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQQCAAgAAAAAGBAACCABAAACAAASAAAAAAACA=</HashCode>
+      <FileName>IngresarTexto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.LoadWindow" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAQACAAABAAAACAAAACAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>LoadWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.LocaldataManager" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ELXAA9IUEbxCxAbClBIVNMKK4RQCAXfACADKCCEfxCo=</HashCode>
+      <FileName>LocaldataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.Medida" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAACAAAAAAAACAIAAAAgA=</HashCode>
+      <FileName>Medida.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.MetodoPago" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEABAgAQAGAAgBAgAADQAABCA0AAAACBgGAIICgAACA=</HashCode>
+      <FileName>MetodoPago.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.ModificarProducto" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EA9AAABSECGxoBQEBACABAACkIAMAAIggGAAgAAIoCE=</HashCode>
+      <FileName>ModificarProducto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.NuevoCliente" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAACAAAQAAACAAAAAAAAgABAIAACAAAAAEAAAAAI=</HashCode>
+      <FileName>NuevoCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.NuevoProducto" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABAAAAQAAAAACAAgAAAAkAEAAAAAAAgAAAAEAAIAA=</HashCode>
+      <FileName>NuevoProducto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.PrintingDocument" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAQgAAAAAAAAAFAAAAAAAAAAAgA=</HashCode>
+      <FileName>PrintingDocument.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.Producto" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABAAAAQAAAAACAAgAAAAkAECAAAAAAgACAIEAAIgA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.ProductoExistencia" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAEEAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>ProductoExistencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.ProductoVenta" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAAAAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ProductoVenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.Program" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.RawPrinterHelper" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEAAQACAAAAAAgAAABIAABAAAAAAAAAAAAAICAAAAA=</HashCode>
+      <FileName>RawPrinterHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.RegistrarApartado" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GEKECJIyCiIVwhAiQgGAAAACggECICAlgSBGNEAkAjg=</HashCode>
+      <FileName>RegistrarApartado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.RegistrarCredito" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GEKECJIwCiIVwhAiQgGAAAACggECICAlgSBGNEAkAjg=</HashCode>
+      <FileName>RegistrarCredito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.Sucursal" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAKAEAAAAAAEAAACAAAECAAACAIAAAAgA=</HashCode>
+      <FileName>Sucursal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.UserLogin" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABAAACQACgAgBAAAACAAQACAAEAAAAAACAgAgQAASQ=</HashCode>
+      <FileName>UserLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.Usuario" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAECAAAASAAACQICAAAgo=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.Ventas" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iQ6mHhK0ynsV51YzegCmKITCECES0D0lBEdEp0QjFjg=</HashCode>
+      <FileName>Ventas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.Vercatalogo" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAuAABIQIiIAhBAQhBXQEIBigAB4AAEEhPBAIgAKBCA=</HashCode>
+      <FileName>Vercatalogo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.VerCorte" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wJECACQASgVgBCAAAGAAAACEAAAQABBADCWAAAAAHE=</HashCode>
+      <FileName>VerCorte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.VerCredApa" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SQLABFASZqIEgDIxggPBRQCigIsAAAAMgHBYIwIAAig=</HashCode>
+      <FileName>VerCredApa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.tabInfo" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAQAAAAAAAAAAACgAAAA=</HashCode>
+      <FileName>VerCredApa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.VerExistencia" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQQCBAoBAAQACAAAACAAAAAAAAAAAQEAAAACA=</HashCode>
+      <FileName>VerExistencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.VerOperaciones" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SARAABKSSyJAghAqggCAAYACAAAIFAAAgGBUZAAiAjA=</HashCode>
+      <FileName>VerOperaciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.WebDataManager" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CTECQACggMA1AAgQggA4AQIhBS4MkIIIAAAFHKEmTGA=</HashCode>
+      <FileName>WebDataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuntoVentaCasaCeja.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAQAAIAAAAAIAACAAAAYAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
