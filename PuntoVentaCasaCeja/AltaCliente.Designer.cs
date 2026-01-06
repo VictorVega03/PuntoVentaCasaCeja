@@ -214,9 +214,9 @@ namespace PuntoVentaCasaCeja
             this.label6.Font = new System.Drawing.Font("Segoe UI Semibold", 13F, System.Drawing.FontStyle.Bold);
             this.label6.Location = new System.Drawing.Point(327, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(108, 25);
+            this.label6.Size = new System.Drawing.Size(119, 25);
             this.label6.TabIndex = 12;
-            this.label6.Text = "TELEFONO*";
+            this.label6.Text = "TELEFONOo*";
             // 
             // txttel
             // 
